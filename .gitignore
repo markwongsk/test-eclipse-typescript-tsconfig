@@ -1,0 +1,10 @@
+# vim
+*.swp
+*.swo
+
+# node
+node_modules
+
+# eclipse
+.project
+.settings
